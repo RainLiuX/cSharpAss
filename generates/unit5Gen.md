@@ -1,4 +1,53 @@
-<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css"rel="stylesheet" />
+<head>
+<style>
+.blank{
+	text-decoration:underline;
+	margin:0 30px 0 30px;
+}
+.date{
+	margin:0 30px 0 30px;
+}
+#left{
+	width:50%;
+	float:left;
+}
+#right{
+	width:50%;
+	float:left;
+}
+</style>
+</head>
+<h1 align="center">西安交通大学实验报告</h1>
+
+<div id="left">
+<p><b>课程</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class="blank">
+	&nbsp&nbspC#程序设计&nbsp&nbsp
+</span></p>
+
+<p>系别&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class="blank">
+	&nbsp&nbsp&nbsp&nbsp生命学院&nbsp&nbsp&nbsp&nbsp
+</span></p>
+
+<p>专业班号<span class="blank">
+	&nbsp&nbsp&nbsp&nbsp化生61&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</span></p>
+
+<p>姓名&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class="blank">
+	&nbsp&nbsp&nbsp&nbsp刘禹佳&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</span></p>
+</div>
+
+<div id="right">
+<p>实验报告日期<span class="date">
+	2017年10月04日
+</span></p>
+<br />
+<br />
+<br />
+<p>学号&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class="blank">
+	&nbsp&nbsp&nbsp&nbsp2140506119&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</span></p>
+</div>
 
 # 第五章 数组
 
