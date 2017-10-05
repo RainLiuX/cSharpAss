@@ -1,12 +1,17 @@
-<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css"rel="stylesheet" />
-
 # 第五章 数组
+
+## 目录
+
+1. 第五章 习题2
+2. 第五章 习题4
+3. 第五章 习题5
+4. 第五章 习题6
 
 ## 习题2
 
 ### 程序实现
 
-```csharp
+```cs
 using System;
 public class Program {
 	public static void Main() {
@@ -32,13 +37,13 @@ public class Program {
 
 ### 运行结果
 
-![5.2result](https://github.com/RainLiuX/cSharpAss/blob/master/unit5/5.2.png "runtime results")
+![5.2result](https://raw.githubusercontent.com/RainLiuX/cSharpAss/master/unit5/5.2.png "runtime results")
 
 ## 习题4
 
 ### 程序实现
 
-```csharp
+```cs
 using System;
 namespace Assignment {
 	public class Program {
@@ -80,13 +85,13 @@ namespace Assignment {
 ```
 ### 运行结果
 
-![5.4result](https://github.com/RainLiuX/cSharpAss/blob/master/unit5/5.4.png "runtime results")
+![5.4result](https://raw.githubusercontent.com/RainLiuX/cSharpAss/master/unit5/5.4.png "runtime results")
 
 ## 习题5
 
 ### 程序实现
 
-```csharp
+```cs
 using System;
 namespace Assignments {
 	public class Program {
@@ -115,13 +120,13 @@ namespace Assignments {
 
 ### 运行结果
 
-![5.5result](https://github.com/RainLiuX/cSharpAss/blob/master/unit5/5.5.png "runtime results")
+![5.5result](https://raw.githubusercontent.com/RainLiuX/cSharpAss/master/unit5/5.5.png "runtime results")
 
 ## 习题6
 
 ### 程序实现
 
-```csharp
+```cs
 using System;
 namespace Assignments {
 	public class Program {
@@ -177,6 +182,5 @@ namespace Assignments {
 
 ### 运行结果
 
-![5.6result](https://github.com/RainLiuX/cSharpAss/blob/master/unit5/5.6.0.png "runtime results")
-
-![5.6result](https://github.com/RainLiuX/cSharpAss/blob/master/unit5/5.6.1.png "runtime results")
+![5.6result](https://raw.githubusercontent.com/RainLiuX/cSharpAss/master/unit5/5.6.0.png "runtime results")
+![5.6result](https://raw.githubusercontent.com/RainLiuX/cSharpAss/master/unit5/5.6.1.png "runtime results")
