@@ -16,6 +16,8 @@
 
  - [Chapter4 结构控制](https://github.com/RainLiuX/cSharpAss/blob/master/reports/unit4.md)
  - [Chapter5 数组](https://github.com/RainLiuX/cSharpAss/blob/master/reports/unit5.md)
+ - [Chapter6 方法](https://github.com/RainLiuX/cSharpAss/blob/master/reports/unit6.md)
+ - [Chapter7 面向对象的编程2](https://github.com/RainLiuX/cSharpAss/blob/master/reports/unit7.md)
 
 如果某个例题无法在以上传送门中找到，说明它仍在施工中
 
