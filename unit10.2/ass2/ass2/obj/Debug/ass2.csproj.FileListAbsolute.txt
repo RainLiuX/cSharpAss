@@ -1,0 +1,10 @@
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\bin\Debug\ass2.exe.config
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\bin\Debug\ass2.exe
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\bin\Debug\ass2.pdb
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\obj\Debug\ass2.csprojResolveAssemblyReference.cache
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\obj\Debug\ass2.Form1.resources
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\obj\Debug\ass2.Properties.Resources.resources
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\obj\Debug\ass2.csproj.GenerateResource.Cache
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\obj\Debug\ass2.csproj.CoreCompileInputs.cache
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\obj\Debug\ass2.exe
+C:\Users\Randolph\Documents\c#\chapter10Winform练习2\ass2\ass2\obj\Debug\ass2.pdb
