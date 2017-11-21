@@ -20,6 +20,9 @@
  - [Chapter7 面向对象的编程2](https://github.com/RainLiuX/cSharpAss/blob/master/reports/unit7.md)
  - [Chapter8 继承](https://github.com/RainLiuX/cSharpAss/blob/master/reports/unit8.md)
  - [Chapter9 多态、接口和运算符重载](https://github.com/RainLiuX/cSharpAss/blob/master/reports/unit9.md)
+ - [Chapter11 WinForm窗口编程 Part1](https://github.com/RainLiuX/cSharpAss/blob/master/unit10.1/report.pdf)
+ - [Chapter11 WinForm窗口编程 Part2](https://github.com/RainLiuX/cSharpAss/blob/master/unit10.2/report.pdf)1
+ - [Chapter12 GDI+](https://github.com/RainLiuX/cSharpAss/blob/master/unit11/report.pdf)1
 
 如果某个例题无法在以上传送门中找到，说明它仍在施工中
 
